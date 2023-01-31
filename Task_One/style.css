@@ -1,0 +1,41 @@
+@import "responsive.css";
+a
+{
+    text-decoration: none;
+    color: black;
+    
+}
+nav,footer
+{   background-color: rgb(231, 226, 226);
+    display:flex;
+    justify-content: Space-evenly;
+}
+aside
+{
+    border: 2px solid ;
+    flex-direction: column;
+    justify-content: space-between;
+    width:49%; 
+    display: flex;
+}
+main
+{    display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+}
+
+div
+{
+    /* height:275px; */
+    text-align: center;
+}
+
+section
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* height: 153px; */
+    gap:4px;
+}
+
