@@ -1,0 +1,105 @@
+@import "reset-min.css";
+@import "style.css";
+
+@media (max-width:1100px)
+{
+    main
+    {
+        background-color: aqua;
+        transform:rotate(40deg)
+        scale(1);
+    }
+    
+}
+@media (max-width:1000px)
+{
+    main
+    {
+        background-color: blue;
+        transform:rotate(60deg)
+        scale(1);
+    }
+}
+@media (max-width:900px)
+{
+    main
+    {
+        background-color:crimson;
+        transform:rotate(80deg)
+        scale(1);
+    }
+}
+@media (max-width:800px)
+{
+    main
+    {
+        background-color:orange;
+        transform:rotate(100deg)
+        scale(1);
+    }
+}
+@media (max-width:700px)
+{
+    main
+    {
+        background-color: seagreen;
+        transform:rotate(120deg)
+        scale(1);
+    }
+}
+@media (max-width:600px)
+{
+    main
+    {
+        background-color: tomato;
+        transform:rotate(140deg)
+        scale(1);
+       
+    }
+    
+}
+@media (max-width:500px)
+{
+    main
+    {
+        background-color: green;
+        transform:rotate(160deg)
+        scale(1);
+    }
+}
+@media (max-width:400px)
+{
+    main
+    {
+        background-color: red;
+        transform:rotate(180deg)
+        scale(1);
+    }
+}
+@media (max-width:300px)
+{
+    main
+    {
+        background-color: palevioletred;
+        transform:rotate(200deg)
+        scale(1);
+    }
+}
+@media (max-width:200px)
+{
+    main
+    {
+        background-color: blueviolet;
+        transform:rotate(220deg)
+        scale(1);
+    }
+}
+@media (max-width:100px)
+{
+    main
+    {
+        background-color: darkcyan;
+        transform:rotate(240deg)
+        scale(1);
+    }
+}
